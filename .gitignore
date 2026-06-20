@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+
+# Build output
+Binaries/
+Intermediate/
+build/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db

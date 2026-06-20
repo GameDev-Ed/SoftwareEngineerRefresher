@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Header Files"><UniqueIdentifier>{7B23A5F4-1D5B-42D1-AC32-1B169CE541A1}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files"><UniqueIdentifier>{AF9C047F-2C2D-4A39-A11A-A747DF59A6BA}</UniqueIdentifier></Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\Architecture.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\BasicFunctions.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\DataStructures.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\FileIO.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="include\OOPBasics.h"><Filter>Header Files</Filter></ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Architecture.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\BasicFunctions.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\DataStructures.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\FileIO.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="src\OOPBasics.cpp"><Filter>Source Files</Filter></ClCompile>
+  </ItemGroup>
+</Project>
